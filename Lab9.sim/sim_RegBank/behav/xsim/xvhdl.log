@@ -1,0 +1,12 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/ASUS/Desktop/Sanuth/Lab9/Lab9.srcs/sources_1/imports/new/Decoder_2_to_4.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Decoder_2_to_4
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/ASUS/Desktop/Sanuth/Lab9/Lab9.srcs/sources_1/imports/new/Decoder_3_to_8.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Decoder_3_to_8
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/ASUS/Desktop/Sanuth/Lab9/Lab9.srcs/sources_1/imports/new/Reg.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Reg
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/ASUS/Desktop/Sanuth/Lab9/Lab9.srcs/sources_1/imports/new/Register_bank.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Register_bank
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/ASUS/Desktop/Sanuth/Lab9/Lab9.srcs/sources_1/imports/new/Slow_Clk.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Slow_Clk
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/ASUS/Desktop/Sanuth/Lab9/Lab9.srcs/sim_RegBank/imports/Lab_9_reg.sim/register_bank_sim.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity register_bank_sim

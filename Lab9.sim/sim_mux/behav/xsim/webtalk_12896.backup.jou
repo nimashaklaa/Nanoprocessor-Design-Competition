@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2018.2 (64-bit)
+# SW Build 2258646 on Thu Jun 14 20:03:12 MDT 2018
+# IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
+# Start of session at: Thu Jul 21 14:44:00 2022
+# Process ID: 12896
+# Current directory: C:/Users/ASUS/Desktop/Sanuth/Lab9/Lab9.sim/sim_mux/behav/xsim
+# Command line: wbtcv.exe -mode batch -source C:/Users/ASUS/Desktop/Sanuth/Lab9/Lab9.sim/sim_mux/behav/xsim/xsim.dir/TB_MUX_2_to_1_3bit_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: C:/Users/ASUS/Desktop/Sanuth/Lab9/Lab9.sim/sim_mux/behav/xsim/webtalk.log
+# Journal file: C:/Users/ASUS/Desktop/Sanuth/Lab9/Lab9.sim/sim_mux/behav/xsim\webtalk.jou
+#-----------------------------------------------------------
+source C:/Users/ASUS/Desktop/Sanuth/Lab9/Lab9.sim/sim_mux/behav/xsim/xsim.dir/TB_MUX_2_to_1_3bit_behav/webtalk/xsim_webtalk.tcl -notrace

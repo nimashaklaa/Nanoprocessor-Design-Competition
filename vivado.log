@@ -1,0 +1,23 @@
+#-----------------------------------------------------------
+# Vivado v2018.2 (64-bit)
+# SW Build 2258646 on Thu Jun 14 20:03:12 MDT 2018
+# IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
+# Start of session at: Wed Jul 27 20:13:09 2022
+# Process ID: 12540
+# Current directory: C:/Users/ASUS/Desktop/Sanuth/Lab9
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent16192 C:\Users\ASUS\Desktop\Sanuth\Lab9\Lab9.xpr
+# Log file: C:/Users/ASUS/Desktop/Sanuth/Lab9/vivado.log
+# Journal file: C:/Users/ASUS/Desktop/Sanuth/Lab9\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/ASUS/Desktop/Sanuth/Lab9/Lab9.xpr
+CRITICAL WARNING: [Project 1-19] Could not find the file 'C:/Users/ASUS/Desktop/Sanuth/Lab9/TB_MUX_to_1_behav.wcfg'.
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2018.2/data/ip'.
+open_project: Time (s): cpu = 00:00:15 ; elapsed = 00:00:10 . Memory (MB): peak = 796.387 ; gain = 77.668
+update_compile_order -fileset sources_1
+exit
+INFO: [Common 17-206] Exiting Vivado at Wed Jul 27 20:14:14 2022...
